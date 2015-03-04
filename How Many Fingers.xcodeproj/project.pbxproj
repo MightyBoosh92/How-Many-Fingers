@@ -13,6 +13,7 @@
 		39D083061A81B5C400F51ACB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39D083051A81B5C400F51ACB /* Images.xcassets */; };
 		39D083091A81B5C400F51ACB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39D083071A81B5C400F51ACB /* LaunchScreen.xib */; };
 		39D083151A81B5C500F51ACB /* How_Many_FingersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D083141A81B5C500F51ACB /* How_Many_FingersTests.swift */; };
+		39D0831F1A81BB6F00F51ACB /* hands_PNG905.png in Resources */ = {isa = PBXBuildFile; fileRef = 39D0831E1A81BB6F00F51ACB /* hands_PNG905.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		39D0830E1A81B5C500F51ACB /* How Many FingersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "How Many FingersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39D083131A81B5C500F51ACB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39D083141A81B5C500F51ACB /* How_Many_FingersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = How_Many_FingersTests.swift; sourceTree = "<group>"; };
+		39D0831E1A81BB6F00F51ACB /* hands_PNG905.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hands_PNG905.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				39D082FE1A81B5C400F51ACB /* AppDelegate.swift */,
 				39D083001A81B5C400F51ACB /* ViewController.swift */,
+				39D0831E1A81BB6F00F51ACB /* hands_PNG905.png */,
 				39D083021A81B5C400F51ACB /* Main.storyboard */,
 				39D083051A81B5C400F51ACB /* Images.xcassets */,
 				39D083071A81B5C400F51ACB /* LaunchScreen.xib */,
@@ -195,6 +198,7 @@
 				39D083041A81B5C400F51ACB /* Main.storyboard in Resources */,
 				39D083091A81B5C400F51ACB /* LaunchScreen.xib in Resources */,
 				39D083061A81B5C400F51ACB /* Images.xcassets in Resources */,
+				39D0831F1A81BB6F00F51ACB /* hands_PNG905.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
